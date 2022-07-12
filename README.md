@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbckSinha
-- 👀 I’m interested in JavaScript, Angular, React, Dot Net, Java, Ionic
-- 🌱 I’m currently learning Dot Net, Java
+- 👀 I’m interested in JavaScript, Angular, React, C#, Java, Ionic, Golang
+- 🌱 I’m currently learning Dot Net, Golang
 - 💞️ I’m looking to collaborate on latest technology
 - 📫 I'm available at https://www.github.com/AbckSinha/
 
